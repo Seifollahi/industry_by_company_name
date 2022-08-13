@@ -14,7 +14,7 @@ joblib==0.14.1
 lockfile==0.12.2
 msgpack==0.6.2
 nltk==3.5
-numpy==1.18.4
+numpy==1.22.0
 packaging==20.3
 pandas==1.0.3
 pep517==0.8.2
